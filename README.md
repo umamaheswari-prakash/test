@@ -1,2 +1,3 @@
 #test
-Git learnings begin.This is my first command
+Git learnings begin.This is my first command  
+intro of github
