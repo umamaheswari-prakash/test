@@ -1,2 +1,2 @@
 # test
-test for git commands
+"Git learnings begin.This is my first command"
