@@ -1,0 +1,4 @@
+tuple =('www','hackerrank','com','domains','pyton')
+str(''.join(tuple))
+print('/'+tuple[0]+'.'+tuple[1]+'.'+tuple[2]+'/'+tuple[3]+'/'+tuple[4])
+

@@ -1,0 +1,15 @@
+def existkey(dict,keys):
+    if keys in dict.keys():
+        print("value = ",dict[keys])
+        print("key is present")
+    else:
+        print("not present")
+n=int(input("enter the value:"))
+dict={}
+for i in range(n):
+    keys =input()
+    values= input()
+    dict[keys]= values
+print(dict)
+keys =input("enter a key:")
+existkey(dict,keys)

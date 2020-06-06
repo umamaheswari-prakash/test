@@ -1,0 +1,4 @@
+s=["abd",[2,3,("xyz","the avengers")],1,2,3]
+listToStr=''.join([str(elem)for elem in s])
+print(listToStr)
+
